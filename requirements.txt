@@ -1,0 +1,15 @@
+fastapi
+pyngrok
+uvicorn
+python-multipart
+pypdf2
+llama-index
+pinecone-client
+llama-index-embeddings-huggingface
+llama-index-vector-stores-pinecone
+transformers>=4.43.2 
+torch
+bitsandbytes
+accelerate
+llama-index-llms-huggingface
+
